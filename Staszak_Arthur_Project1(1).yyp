@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "6a062f17-b648-4433-a60e-1b767a8ddb01",
+            "Value": {
+                "id": "a206a321-14fc-4d3c-b68a-3c320a86f41e",
+                "resourcePath": "sprites\\SPod\\SPod.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7259494c-6cc7-44eb-8f7e-468811348079",
             "Value": {
                 "id": "7b809a11-b766-46ef-98ad-b28abea3ee4a",
@@ -162,7 +170,7 @@
             "Key": "8da4b656-5dad-4da6-a3b9-40f573377190",
             "Value": {
                 "id": "ca6c30a9-d22c-4e77-9813-3d9da13ecd64",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Space\\Space.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -172,6 +180,14 @@
                 "id": "e50b14d7-6acf-407b-8c7e-4c18776df0ad",
                 "resourcePath": "views\\a29cd063-30b9-4d2a-9d31-c7faa5fdeb6a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a824a187-302a-4ba9-a5d1-4552620ec68a",
+            "Value": {
+                "id": "86b28b47-3091-43e5-89bd-e6c75c8cf4b8",
+                "resourcePath": "sprites\\SBackground\\SBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
