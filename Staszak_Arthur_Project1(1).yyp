@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "e5336f77-e905-4c6a-8cb2-e732eb1aee4f",
+            "Value": {
+                "id": "c48ea35c-ec92-44eb-83d0-df61c2703f52",
+                "resourcePath": "sprites\\SLives\\SLives.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e67fe802-da5e-4b50-9f12-f0446fe0ce2a",
             "Value": {
                 "id": "188e5ef2-a7bb-448e-a19b-d96f4431b86e",
