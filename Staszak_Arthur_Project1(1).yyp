@@ -2,7 +2,7 @@
     "id": "c59c3d62-14a5-4fa6-9cf1-55baa4fa21b3",
     "modelName": "GMProject",
     "mvc": "1.0",
-    "IsDnDProject": true,
+    "IsDnDProject": false,
     "configs": [
         
     ],
@@ -375,14 +375,6 @@
             }
         },
         {
-            "Key": "863daeae-b908-4e3d-a0fc-33213a6b01f7",
-            "Value": {
-                "id": "750dc268-a653-498e-a121-35ec3a01e9ed",
-                "resourcePath": "datafiles_yy\\491407__samsterbirdies__jet-engine-startup.flac.yy",
-                "resourceType": "GMIncludedFile"
-            }
-        },
-        {
             "Key": "8726ab6c-72fa-4912-b859-1fe48e046144",
             "Value": {
                 "id": "b1fa117b-07c6-43c6-8063-a2fb0aae5762",
@@ -403,6 +395,14 @@
             "Value": {
                 "id": "f9866168-90f8-4c5d-961f-a4b3c7c073f0",
                 "resourcePath": "sounds\\SpaceshipExplosion\\SpaceshipExplosion.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "8d728bce-89dd-4095-9df0-74bccb00ecb0",
+            "Value": {
+                "id": "f22699ae-73d2-47d4-95fe-be3089966478",
+                "resourcePath": "sounds\\PlayMusic\\PlayMusic.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -468,14 +468,6 @@
                 "id": "828c9e07-49fa-4383-a9aa-18631e1c48e9",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "aeb57731-8a3c-4b6f-a64e-be49ea592aeb",
-            "Value": {
-                "id": "da120429-7f4f-48e7-b414-da3aa11dc247",
-                "resourcePath": "sounds\\PlayMusic\\PlayMusic.yy",
-                "resourceType": "GMSound"
             }
         },
         {
