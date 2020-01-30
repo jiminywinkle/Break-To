@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "81728689-1a64-451f-b786-5bcc31a61582",
+            "Value": {
+                "id": "51a3718d-26da-48f2-87db-fed59ef7b30a",
+                "resourcePath": "objects\\InstructionText\\InstructionText.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "825f8e4a-9402-482a-a9a1-6fa4a579473c",
             "Value": {
                 "id": "1cb55e6c-f858-47d4-9d69-df8fe013e552",
@@ -388,6 +396,14 @@
                 "id": "b1fa117b-07c6-43c6-8063-a2fb0aae5762",
                 "resourcePath": "objects\\AsteroidParent\\AsteroidParent.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "887c57c2-741b-47d9-8521-4f1725619c82",
+            "Value": {
+                "id": "6f931876-7794-4776-a778-d53bb66c5cb0",
+                "resourcePath": "rooms\\Instructions\\Instructions.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -643,6 +659,14 @@
             "Value": {
                 "id": "977e7afd-1959-4d6f-874a-3a243bea453e",
                 "resourcePath": "sprites\\SNormal\\SNormal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f270f569-57fe-49e7-a99c-56993a4d900e",
+            "Value": {
+                "id": "75e3f505-ea34-4d81-9504-806261246d94",
+                "resourcePath": "sprites\\SInstructionText\\SInstructionText.yy",
                 "resourceType": "GMSprite"
             }
         },
